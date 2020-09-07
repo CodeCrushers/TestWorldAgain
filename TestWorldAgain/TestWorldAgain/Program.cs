@@ -16,6 +16,7 @@ namespace TestWorldAgain {
             foreach(Person p in people) {
                 Console.WriteLine(p.name + " " + p.age);
             }
+            Console.ReadLine();
         }
     }
 }
