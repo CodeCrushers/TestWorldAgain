@@ -46,7 +46,6 @@
     <Compile Include="Entity.cs" />
     <Compile Include="lolDude.cs" />
     <Compile Include="Monster.cs" />
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
